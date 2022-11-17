@@ -18,10 +18,7 @@ public class TreeSetTest {
         ts.add("cdbjd");
         ts.add("adc");
 
-        Iterator it = ts.iterator();
-        while (it.hasNext()) {
-            System.out.println(it.next());
-        }
+
     }
 }
 
