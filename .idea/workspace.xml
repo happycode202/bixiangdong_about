@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5df9b5d-34f4-4984-80de-17733952da11" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day16/MapTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day17/CollectionsDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day17/ArraysDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day17/CollectionsToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day17/ForEachDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day17/ParamMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day17/StaticImport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day18/DateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day18/RuntimeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day18/SystemDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,9 +66,22 @@
       <recent name="com.bixiangdong.day15" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.CollectionsDemo2">
-    <configuration name="CollectionsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bixiangdong.day17.CollectionsDemo" />
+  <component name="RunManager" selected="应用程序.DateDemo">
+    <configuration name="DateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bixiangdong.day18.DateDemo" />
+      <module name="bixiangdong_about" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bixiangdong.day18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForEachDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bixiangdong.day17.ForEachDemo" />
       <module name="bixiangdong_about" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionsDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bixiangdong.day17.CollectionsDemo2" />
+    <configuration name="ParamMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bixiangdong.day17.ParamMethodDemo" />
       <module name="bixiangdong_about" />
       <extension name="coverage">
         <pattern>
@@ -88,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bixiangdong.day16.MapTest2" />
+    <configuration name="RuntimeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bixiangdong.day18.RuntimeDemo" />
       <module name="bixiangdong_about" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bixiangdong.day16.*" />
+          <option name="PATTERN" value="com.bixiangdong.day18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,25 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bixiangdong.day16.MapTest3" />
+    <configuration name="SystemDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bixiangdong.day18.SystemDemo" />
       <module name="bixiangdong_about" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bixiangdong.day16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MapTestn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bixiangdong.day16.MapTestn" />
-      <module name="bixiangdong_about" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bixiangdong.day16.*" />
+          <option name="PATTERN" value="com.bixiangdong.day18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.CollectionsDemo2" />
-        <item itemvalue="应用程序.CollectionsDemo" />
-        <item itemvalue="应用程序.MapTest3" />
-        <item itemvalue="应用程序.MapTest2" />
-        <item itemvalue="应用程序.MapTestn" />
+        <item itemvalue="应用程序.DateDemo" />
+        <item itemvalue="应用程序.RuntimeDemo" />
+        <item itemvalue="应用程序.SystemDemo" />
+        <item itemvalue="应用程序.ParamMethodDemo" />
+        <item itemvalue="应用程序.ForEachDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -166,6 +171,12 @@
       <workItem from="1668761371427" duration="6430000" />
       <workItem from="1668830241181" duration="134000" />
       <workItem from="1668833339875" duration="6613000" />
+      <workItem from="1668869321104" duration="71000" />
+      <workItem from="1668876604167" duration="109000" />
+      <workItem from="1668876835237" duration="91000" />
+      <workItem from="1668877184588" duration="128000" />
+      <workItem from="1668929574706" duration="3905000" />
+      <workItem from="1668948271793" duration="8818000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1668659729957</created>
