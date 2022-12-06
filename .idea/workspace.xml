@@ -5,37 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5df9b5d-34f4-4984-80de-17733952da11" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/info.init" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day19/BufferedReaderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day19/BufferedStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day19/BufferedWriterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day19/CopyPic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day19/CopyTextByBuf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day19/FileOutputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day19/LineNumberReaderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day19/MyBufferedInputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day19/MyBufferedReaderDeo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day19/MyLineNumberReaderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day19/PersonDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day19/ReadIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day19/TransStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day19/TransStreamDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day20/ExceptionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day20/FileDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day20/FileDemo2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day20/FileDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day20/FileDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day20/JavaFileList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day20/JavaFileList1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day20/PrintStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day20/PropertiesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day20/RemoveDir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day20/RunCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day20/SequenceInputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day21/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day21/PipeStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day21/RandomAccessFileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day21/SerializableDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,13 +71,13 @@
       <recent name="com.bixiangdong.day15" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.SequenceInputStreamDemo">
-    <configuration name="JavaFileList1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bixiangdong.day20.JavaFileList1_1" />
+  <component name="RunManager" selected="应用程序.PipeStreamDemo">
+    <configuration name="PipeStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bixiangdong.day21.PipeStreamDemo" />
       <module name="bixiangdong_about" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bixiangdong.day20.*" />
+          <option name="PATTERN" value="com.bixiangdong.day21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,19 +87,6 @@
     </configuration>
     <configuration name="PrintStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bixiangdong.day20.PrintStream" />
-      <module name="bixiangdong_about" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bixiangdong.day20.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PropertiesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bixiangdong.day20.PropertiesDemo" />
       <module name="bixiangdong_about" />
       <extension name="coverage">
         <pattern>
@@ -164,13 +124,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SerializableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bixiangdong.day21.SerializableDemo" />
+      <module name="bixiangdong_about" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bixiangdong.day21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.PipeStreamDemo" />
+        <item itemvalue="应用程序.SerializableDemo" />
         <item itemvalue="应用程序.SequenceInputStreamDemo" />
         <item itemvalue="应用程序.PrintStream" />
         <item itemvalue="应用程序.RunCount" />
-        <item itemvalue="应用程序.PropertiesDemo" />
-        <item itemvalue="应用程序.JavaFileList1_1" />
       </list>
     </recent_temporary>
   </component>
@@ -224,6 +197,13 @@
       <workItem from="1669716403800" duration="3885000" />
       <workItem from="1669779039047" duration="9002000" />
       <workItem from="1669863096912" duration="109000" />
+      <workItem from="1669905875046" duration="165000" />
+      <workItem from="1669976470683" duration="6000" />
+      <workItem from="1670058165653" duration="8000" />
+      <workItem from="1670134695537" duration="99000" />
+      <workItem from="1670135751321" duration="294000" />
+      <workItem from="1670136881811" duration="2000" />
+      <workItem from="1670302927539" duration="3815000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1668659729957</created>
