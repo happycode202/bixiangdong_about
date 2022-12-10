@@ -1,0 +1,5 @@
+Student{name='wing', cn=90, en=90, math=90, sum=270}
+Student{name='xuing', cn=80, en=80, math=80, sum=240}
+Student{name='zhangwu', cn=40, en=50, math=60, sum=150}
+Student{name='lisi', cn=20, en=30, math=30, sum=80}
+Student{name='zhangsan', cn=10, en=20, math=30, sum=60}

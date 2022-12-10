@@ -13,10 +13,10 @@ public class SerializableDemo {
     }
 
     public static void readObj() throws Exception {
-        ObjectInputStream ois = new ObjectInputStream(new FileInputStream("obj.txt"));
-        Person p=(Person)ois.readObject();
-        System.out.println(p);
-        ois.close();
+//        ObjectInputStreamDemo ois = new ObjectInputStreamDemo(new FileInputStream("obj.txt"));
+//        Person p=(Person)ois.readObject();
+//        System.out.println(p);
+//        ois.close();
     }
     public static void writeObject() throws IOException {
         ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("obj.txt"));
