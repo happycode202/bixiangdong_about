@@ -5,17 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5df9b5d-34f4-4984-80de-17733952da11" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day21/ByteArrayStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day21/EncodeStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day21/ObjectInputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day21/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day21/StudentInfoDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day21/StudentInfoTool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day22/AwtDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day22/FrameDeom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day22/MouseAndKeyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day22/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day22/MyMenuDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day22/MyMenuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day22/MyWindowDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day23/ChatDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day23/IPDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day23/ReceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day23/SendClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day23/TcpClientDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day23/TcpServerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day23/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day23/TransClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day23/TransServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day23/UdpRec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day23/UdpSend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day23/UploadTextClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bixiangdong/day23/UploadTextServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bixiangdong/day21/SerializableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bixiangdong/day21/SerializableDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +44,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2HPF5w8KwXjgq7xi0eYZG57SBuV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -77,13 +84,13 @@
       <recent name="com.bixiangdong.day15" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.MouseAndKeyDemo (1)">
-    <configuration name="MouseAndKeyDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bixiangdong.day22.MouseAndKeyDemo" />
+  <component name="RunManager" selected="应用程序.UploadTextClient">
+    <configuration name="TcpClientDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bixiangdong.day23.TcpClientDemo" />
       <module name="bixiangdong_about" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bixiangdong.day22.*" />
+          <option name="PATTERN" value="com.bixiangdong.day23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MouseAndKeyDemo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bixiangdong.day22.MouseAndKeyDemo" />
+    <configuration name="TransClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bixiangdong.day23.TransClient" />
       <module name="bixiangdong_about" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bixiangdong.day22.*" />
+          <option name="PATTERN" value="com.bixiangdong.day23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MouseAndKeyDemo (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bixiangdong.day22.MouseAndKeyDemo" />
+    <configuration name="TransServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bixiangdong.day23.TransServer" />
       <module name="bixiangdong_about" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bixiangdong.day22.*" />
+          <option name="PATTERN" value="com.bixiangdong.day23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MouseAndKeyDemo (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bixiangdong.day22.MouseAndKeyDemo" />
+    <configuration name="UploadTextClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bixiangdong.day23.UploadTextClient" />
       <module name="bixiangdong_about" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bixiangdong.day22.*" />
+          <option name="PATTERN" value="com.bixiangdong.day23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MouseAndKeyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bixiangdong.day22.MouseAndKeyDemo" />
+    <configuration name="UploadTextServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bixiangdong.day23.UploadTextServer" />
       <module name="bixiangdong_about" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bixiangdong.day22.*" />
+          <option name="PATTERN" value="com.bixiangdong.day23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.MouseAndKeyDemo (1)" />
-        <item itemvalue="应用程序.MouseAndKeyDemo" />
-        <item itemvalue="应用程序.MouseAndKeyDemo (5)" />
-        <item itemvalue="应用程序.MouseAndKeyDemo (4)" />
-        <item itemvalue="应用程序.MouseAndKeyDemo (3)" />
+        <item itemvalue="应用程序.UploadTextClient" />
+        <item itemvalue="应用程序.UploadTextServer" />
+        <item itemvalue="应用程序.TransClient" />
+        <item itemvalue="应用程序.TransServer" />
+        <item itemvalue="应用程序.TcpClientDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +219,14 @@
       <workItem from="1670302927539" duration="3815000" />
       <workItem from="1670476343034" duration="5422000" />
       <workItem from="1670555617874" duration="12073000" />
-      <workItem from="1670637307363" duration="1108000" />
+      <workItem from="1670637307363" duration="1631000" />
+      <workItem from="1670674253127" duration="345000" />
+      <workItem from="1670718193581" duration="9360000" />
+      <workItem from="1670749438600" duration="383000" />
+      <workItem from="1670749857177" duration="4514000" />
+      <workItem from="1670808476670" duration="10385000" />
+      <workItem from="1670889459942" duration="3067000" />
+      <workItem from="1670977660886" duration="7618000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1668659729957</created>
